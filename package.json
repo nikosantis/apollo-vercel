@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Nikolas Santis <nikosantis@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^2.14.0",
