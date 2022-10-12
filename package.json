@@ -13,7 +13,7 @@
   "author": "Nikolas Santis <nikosantis@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.14.0",
+    "apollo-server": "^2.25.4",
     "apollo-server-express": "^2.14.0",
     "express": "^4.17.1",
     "graphql": "^15.0.0"
